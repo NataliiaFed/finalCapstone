@@ -32,9 +32,9 @@ The program is designed and written in Python, using object-oriented programming
 Download the inventory.py and inventory.txt (clone the repository) to your local machine, and place them in **the same folder**.  
   
 To run the program, open your command line, navigate to a directory where you saved the files and type the following command in the command line:
-'''
+```
 python inventory.py
-''' 
+``` 
   
 Make sure you have Python installed on your PC, as well as the tabulate module, on your machine.
 Instructions here: 
@@ -102,4 +102,4 @@ The data in the file is stored in the following format:
 <a name="contributors"></a>
 ## Contributors
 
-[Nataliia Fedorets](https://github.com/NataliiaFed)(project owner)
+[Nataliia Fedorets](https://github.com/NataliiaFed) (project owner)
